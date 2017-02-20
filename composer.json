@@ -7,6 +7,6 @@
             "email": "tcnguyen0149@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "require": {}
 }
