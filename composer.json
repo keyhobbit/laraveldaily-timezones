@@ -1,12 +1,14 @@
 {
     "name": "trannguyen/timezones",
     "description": "Demo-package to show time",
+    "version": "1.0",
+    "licenses": "MIT",
     "authors": [
         {
             "name": "Laravel Daily",
             "email": "tcnguyen0149@gmail.com"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "require": {}
 }
