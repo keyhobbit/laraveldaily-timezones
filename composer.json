@@ -9,6 +9,11 @@
             "email": "tcnguyen0149@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Trannguyen\\Timezones\\": "src/"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
